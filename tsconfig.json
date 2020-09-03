@@ -1,0 +1,15 @@
+{
+	"include": ["src"],
+	"compilerOptions": {
+		"target": "es5",
+		"lib": ["dom","es5"],
+		"strict": false,
+		"module": "esnext",
+		"moduleResolution": "node",
+		"resolveJsonModule": true,
+		"isolatedModules": false,
+		"skipLibCheck": true,
+		"removeComments": true,
+		"baseUrl": "src"
+	}
+}
